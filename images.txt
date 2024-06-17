@@ -1,4 +1,4 @@
-#nginx
+
 opengauss
 #支持私库
 opengauss/opengauss:3.1.0
